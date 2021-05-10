@@ -1,0 +1,72 @@
+cantata (smash)hazelnut incense coffee beans 600g/mocha blend
+Costa costa signature blend coffee bean 200G x 2
+starbucks veranda blend light smash coffee 567g 2 pack
+trader joe organic french roast 13oz(369g) x2 pack
+[blackvins]mandeling, indonesia coffee beans after ordering roasting 200g
+for restaurant prima vending machine cohabitation 1kg coffee prim business
+[117557]ethiopia special blend(500g/fine grinding/mr bin)
+[keopimandeulgi] kenya aa TOP 500g
+rabbah intensos dark roast coffee beans powder 340g 3 piece
+pauls ground coffee beans 865g coffee powder drip coffee
+pauls breakfast blend mild light roast ground coffee 720g
+indonesia sumatra mandeling 100g coffee beans roasting on the day
+[sales cafe] hazelnut incense coffee beans(200g/500g/1kg)
+espresso bold dark 1kg(SRBC140FC0500A02)coffee beans
+el salvador fancy 1kg(SROC120CI0500A02) gobgebunswae/gajeongyongeseupeureso/mocha pot(M)
+[coffee pilgrims] guatemala shb beans coffee/227g 1 rod(8oz 1 rod) /single origin
+brazil serado coffee beans 1kg roasting on the day
+sanjibyeolsaengdu santos, brazil NY2 1Bag(60kg)
+ilya classico holvin coffee medium roast 250g 6 pack
+The Coffee Fool teugjeon coffee fool english topi 12oz
+antigua guatemala 1kg guatemala coffee beans roseutingweondukeopi coffee beans coffee bean gwatemalr
+brazil seahawo 1kg /bean(holvin)
+Tim Hortons hazelnut light geuraindeukeopi 300g 2 pack
+constantine 500g 100% arabica hazelnut incense ground beans coffee
+davidoff rich aroma coffee 100g 1 bottle.
+carmonnet blueberry latte 500g
+(radish)maxwell original(for vending machines)900gX12 piece
+maxwell house coffee mix original 11.8g X 100T
+G7 G7 coffee 3in1 mixed coffee 16g x 100 intervention for export (100T + 10T)
+east and west maxim keopiman(black) mocha gold mild (20T)
+east-west foods maxwell hwainkeopi 500g dongseosigpumkeopi dongseokeopi maxwell house
+maxim mocha gold refill 500g coffee stick disposable coffee stick coffee husigkeopi dijeoteukeopi
+[mokona] instant coffee 100g midieomroseuteu
+stationery office/nobeulkeopikeopimigseu 100T(1gx100T/ildong foods)
+ttt maxim white gold coffee mix(11.7gX180T dongseo food)
+[G7] G7 vietnam black coffee mix 15T
+G7 instant coffee 30g X 5 coffee,mix,bean,bongjikeo
+maxim mocha gold mild coffee mix 12g x 800 piece
+nescafe coffee 200g
+for vending machines coffee mix food health beverage japangiyongkeopimigseu 900gx12 bag coffee maxwe
+vietnam G7 coffee 3in1 mixed coffee domestic use 800g(16g x 50T)
+east and west maxim original coffee 100g (bottle) 12 intervention box
+[W6E3D3F]maxim mocha coffee mix 1kg maxim mocha coffee mix mokakeopimigseu 1kg maxim mocha co
+davidoff cafe rich aroma stick coffee 1.8g x25 intervention
+[starbucks] double shot espresso&amp;200 ml cream 36 mouth
+lotte cantata cold brew black 275ml 20 cans
+georgia cafe latte 240ML X 30 cans
+georgia ice black 220ml x50 piece GG8230
+
+
+train = [
+    ("cantata (smash)hazelnut incense coffee beans 600g/mocha blend",{"entities":[(0,43,'PRODUCT_NAME'),(45,48,'WEIGHT')]}),
+    ("Costa costa signature blend coffee bean 200G x 2",{"entities":[(0,38,'PRODUCT_NAME'),(40,43,'WEIGHT'),(45,47,'QUANTITY')]}),
+    ("starbucks veranda blend light smash coffee 567g 2 pack",{"entities":[(0,41,'PRODUCT_NAME'),(43,46,'WEIGHT'),(48,53,'QUANTITY')]}),
+    ("trader joe organic french roast 13oz(369g) x2 pack",{"entities":[(0,30,'PRODUCT_NAME'),(32,41,'WEIGHT'),(43,49,'QUANTITY')]}),
+    ("[blackvins]mandeling, indonesia coffee beans after ordering roasting 200g",{"entities":[(0,43,'PRODUCT_NAME'),(69,72,'WEIGHT')]}),
+    ("[117557]ethiopia special blend(500g/fine grinding/mr bin)",{"entities":[(8,29,'PRODUCT_NAME'),(31,34,'WEIGHT')]}),
+    ("[keopimandeulgi] kenya aa TOP 500g",{"entities":[(0,28,'PRODUCT_NAME'),(30,33,'WEIGHT')]}),
+    ("rabbah intensos dark roast coffee beans powder 340g 3 piece",{"entities":[(0,45,'PRODUCT_NAME'),(47,50,'WEIGHT'),(52,58,'QUANTITY')]}),
+    ("pauls ground coffee beans 865g coffee powder drip coffee",{"entities":[(0,24,'PRODUCT_NAME'),(26,29,'WEIGHT')]}),
+    ("pauls breakfast blend mild light roast ground coffee 720g",{"entities":[(0,51,'PRODUCT_NAME'),(53,56,'WEIGHT')]}),
+    ("indonesia sumatra mandeling 100g coffee beans roasting on the day",{"entities":[(0,26,'PRODUCT_NAME'),(28,31,'WEIGHT')]}),
+    ("[sales cafe] hazelnut incense coffee beans(200g/500g/1kg)",{"entities":[(0,41,'PRODUCT_NAME'),(43,55,'WEIGHT')]}),
+    ("brazil serado coffee beans 1kg roasting on the day",{"entities":[(0,25,'PRODUCT_NAME'),(27,29,'WEIGHT')]}),
+    ("sanjibyeolsaengdu santos, brazil NY2 1Bag(60kg)",{"entities":[(0,35,'PRODUCT_NAME'),(42,45,'WEIGHT'),(37,40,'QUANTITY')]}),
+    ("ilya classico holvin coffee medium roast 250g 6 pack",{"entities":[(0,39,'PRODUCT_NAME'),(41,44,'WEIGHT'),(46,51,'QUANTITY')]}),
+    ("The Coffee Fool teugjeon coffee fool english topi 12oz",{"entities":[(0,35,'PRODUCT_NAME'),(50,53,'WEIGHT')]}),
+    ("antigua guatemala 1kg guatemala coffee beans roseutingweondukeopi coffee beans coffee bean",{"entities":[(0,16,'PRODUCT'),(18,20,'WEIGHT')]}),
+    ("brazil seahawo 1kg /bean(holvin)",{"entities":[(0,13,'PRODUCT_NAME'),(15,17,'WEIGHT')]}),
+    ("Tim Hortons hazelnut light geuraindeukeopi 300g 2 pack",{"entities":[(0,41,'PRODUCT_NAME'),(43,46,'WEIGHT')]}),
+    ("constantine 500g 100% arabica hazelnut incense ground beans coffee",{"entities":[(22,36,'PRODUCT_NAME'),(12,15,'WEIGHT')]})
+]
