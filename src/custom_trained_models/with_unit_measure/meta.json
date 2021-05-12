@@ -139,10 +139,7 @@
       "PRODUCT",
       "QUANTITY",
       "TIME",
-      "WORK_OF_ART",
-      "product_name",
-      "unit_of_measure",
-      "value_of_measure"
+      "WORK_OF_ART"
     ],
     "attribute_ruler":[
 
